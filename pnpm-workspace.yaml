@@ -176,3 +176,5 @@ minimumReleaseAgeExclude:
   - multer
   - simple-git
   - underscore
+  # Renovate security update: pnpm@10.33.0
+  - pnpm@10.33.0
